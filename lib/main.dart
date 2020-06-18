@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: "Noticias Now",
+        title: "News Now",
         theme: miTema,
         debugShowCheckedModeBanner: false,
         home: TabsPage());
